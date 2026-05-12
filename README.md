@@ -24,4 +24,20 @@ ElectroMentor is a fully offline gamified Electronics Engineering learning app b
 - PLC
 - Robotics
 
+## Screenshots
+
+### Home Dashboard
+![Home](screenshots/home-screen.jpg)
+
+### Search System
+![Search](screenshots/search-screen.jpg)
+
+### Settings & Branding
+![Settings](screenshots/settings-screen.jpg)
+
 Built by AI Genius Partners.
+
+
+
+
+
